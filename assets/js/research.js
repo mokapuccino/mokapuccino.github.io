@@ -14,7 +14,7 @@ const research = [
   },
   {
     title: "Mes Savoirs",
-    desp: "<p class='amb'><li><h5>Globaux :</h5> Pack Office, Linux, Windows</li><br><li><h5>Programmation : </h5>Python, C#, C++, C, UML, Java, LaTeX</li><br><li><h5>IA : </h5>Machine Learning, Visualisation de données, Traitement d'images</li><br><li><h5>Réseau :</h5> CCNA 1 & 2, Packet Tracer</li><br><li><h5>Developpement Web : </h5> HTML, CSS, Javascript</li><br><li><h5>Gestion de projet : </h5> Méthodes SCRUM / Agile</li></p>",
+    desp: "<p class='amb'><li><h5>Globaux :</h5> Pack Office, Linux, Windows</li><br><li><h5>Programmation : </h5>Python, C#, C++, C, UML, Java, LaTeX</li><br><li><h5>IA : </h5>Machine Learning, Visualisation de données, Traitement d'images</li><br><li><h5>Réseau :</h5> CCNA 1 & 2, Packet Tracer</li><br><li><h5>Developpement Web : </h5> HTML, CSS, Javascript</li><br><li><h5>Gestion de projet : </h5> Méthodes SCRUM / Agile</li></p><li><h5>Langues, anglais : </h5>niveau C1 (score TOEIC 960/990)</li><br><li><h5>Langues, espagnol : </h5>niveau B1 </li><br>",
     image: "assets/images/research-page/K1.png",
     abstract:
       "This is currently left empty and this can be considered as a dummy data 1",

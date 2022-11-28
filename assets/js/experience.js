@@ -19,7 +19,7 @@ const exp = [
     cardImage: "assets/images/experience-page/C.png",
     place: "Courtepaille, Bouguenais et Saint-Nazaire (44)",
     time: "contrat extra régulier + 5 mois de temps plein, depuis 2021",
-    desp: "Serveuse Polyvalente, missions : <li>Service</li><li>Accueil</li><li>Nettoyage</li><li>Officier de cuisine</li><li>Plonge</li>...",
+    desp: "Serveuse Polyvalente, missions : <li>Service</li><li>Accueil</li><li>Nettoyage</li><li>Officier de cuisine</li><li>Plonge</li>",
     abstract:
       "This is currently left empty and this can be considered as a dummy data 1",
     absbox: "absPopup2",
