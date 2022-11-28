@@ -130,7 +130,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Contactez moi</h6>
               </div>
-                <form name="form1" action="https://formcarry.com/s/BywEPAJNb" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://formcarry.com/s/zY4dMD9Om" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Votre Nom" required/>
                   <input id="email" type="email" name="email" placeholder=" Votre Adresse Email" required/>                  
                   <textarea id="textArea" name="message" placeholder="Votre message" required></textarea>
@@ -145,7 +145,7 @@ let footer = $(`
           </div>
         </div>
     </div>
-
+   
 
     
 
@@ -181,7 +181,7 @@ let footer = $(`
     </div>
 </footer>
 `);
-
+ // href="mailto:em.bigaret@gmail.com"
 //"Scroll to top" button
 let upArrow = $(`
   <button id="btnScrollToTop" onclick="scrollToTop()"><i class="fas fa-2x fa-angle-up"></i></button>
