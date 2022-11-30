@@ -18,7 +18,7 @@ const research = [
     desp: "<p>Je n’ai pas encore d’idée exacte du métier que je souhaite exercer. Cependant, j'aimerais travailler dans l’informatique et plus particulièrement exercer un métier en lien avec l’Intelligence Artificielle ou/et le Développement Web. </p><p>Voici une liste non exhaustive des compétences nécessaires à cette évolution professionnelle. </p><p>Savoir : </p><p><li>Coder</li><li>Acquérir rapidement et de manière autonome des connaissances</li><li>Faire preuve de créativité</li><li>S’auto-former, veille permanente</li><li>S'engager et agir en autonomie</li><li>Travailler en équipe et faire partager ses connaissances</li><li>Rédiger, synthétiser des documents</li></p>",
     image: "assets/images/research-page/job.png", 
     abstract:
-    "<h3 style='text-align' :justify>Mes compétences métiers :</h3><p>Je n’ai pas encore d’idée exacte du métier que je souhaite exercer. Cependant, je souhaite travailler dans l’informatique et plus particulièrement exercer un métier en lien avec l’Intelligence Artificielle ou le Développement Web. </p><p>Voici une liste non exhaustive des compétences nécessaires à cette évolution professionnelle : </p><p><li>Coder</li><li>Acquérir rapidement et de manière autonome des connaissances</li><li>Faire preuve de créativité</li><li>S’auto-former, veille permanente</li><li>S'engager et agir en autonomie</li><li>Travailler en équipe et faire partager ses connaissances</li><li>Rédiger, synthétiser des documents</li></p>",
+    "",
     absbox: "absPopup0",
   },
   {
