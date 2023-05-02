@@ -23,7 +23,7 @@ const research = [
   },
   {
     title: "Mes Anti-valeurs",
-  desp: "<p>Les choses que je perçois comme étant des anti-valeurs sont :</p><li>L'hypocrisie</li><li>La malhonnêteté</li><li>La paresse</li><li>La manipulation</li><p>Je NE SAIS PAS</p>",
+  desp: "<p>Les choses que je perçois comme étant des anti-valeurs sont :</p><li>La manipulation</li><li>L'hypocrisie</li><li>La malhonnêteté</li><li>La paresse</li><p>Ayant beaucoup de mal à feindre, je m'entends très mal avec des personnes hypocrites et la manipulation à des fins malhonnêtes est, pour moi, le pire coup bas qui puisse être porté.</p>",
     image: "assets/images/research-page/Avalue.png",
     abstract:
       "",
