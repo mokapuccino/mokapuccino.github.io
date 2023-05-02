@@ -6,11 +6,27 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "AI racing",
+    type: "ESAIP, Sigma Nantes",
+    date: "en cours",
+    cardImage: "assets/images/project-page/IAracing.png",
+    desp: "Préparation et participation à une course de voitures autonomes pilotées par IA.",
+    
+  },
+  {
+    title: "NLP",
+    type: "ESAIP",
+    date: "en cours",
+    cardImage: "assets/images/project-page/CMNLP.png",
+    desp: "Réalisation d'une IA de Natural Language Processing permettant la prédiction du sentiment général d'un texte.",
+    
+  },
+  {
     title: "Activ'ESAIP",
     type: "ESAIP, Professionnel",
     date: "en cours",
     cardImage: "assets/images/project-page/D4G.jpg",
-    desp: "Réalisation d'un projet au sein d'une entreprise, pour cette entreprise.",
+    desp: "Réalisation d'une campagne de phishing au sein de l'entreprise Fleury Michon.",
     
   },
   {

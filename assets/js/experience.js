@@ -21,21 +21,22 @@ const exp = [
     time: "contrat extra régulier + 5 mois de temps plein, depuis 2021",
     desp: "Serveuse Polyvalente, missions : <li>Service</li><li>Accueil</li><li>Nettoyage</li><li>Officier de cuisine</li><li>Plonge</li>",
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "",
     absbox: "absPopup2",
   },
   {
     title: "Stagiaire en service informatique",
     cardImage: "assets/images/experience-page/B.png",
     place: "Brangeon Services, La Pommeraye (49)",
-    time: "(Juillet 2020 - 1 mois)",
+    time: "Juillet 2020 (1 mois)",
     desp: "Missions : <li>Gestion des stocks</li> <li>Standardiste téléphonique</li> <li>Préparation de postes informatiques / téléphones pour mise en service</li> <li>Gestion de bases de données</li>",
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "",
     absbox: "absPopup3",
   },
 
 ];
+
 
 const showCards2 = () => {
   let output = "";
@@ -76,7 +77,7 @@ const mentor = [
     title: "ANT, Accessibilité Numérique pour Tous",
     subtitle: "Centre Communal d'Actions Sociales Village Pierre Rabhi, Saint-Barthélemy-d'Anjou (49)",
     image: "assets/images/experience-page/ANTB1.png",
-    desp: "Création et animation de cours d'informatique au sein du club ANT. Je suis responsable de la communication interne du club.",
+    desp: "Création et animation de cours d'informatique au sein du club ANT. J'ai été, jusque récemment, responsable de la communication interne du club.",
   },
   {
     title: "Coaching de Badminton",
