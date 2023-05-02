@@ -1022,10 +1022,10 @@ font-size: large;
   text-transform: uppercase;
   padding: 1rem;
   cursor: pointer;
-  margin: 1em 500px 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
+  display: inline-block;
+  margin: 1em 40% ;
+  width: 20%;
 }
 .CV:hover,
 .CV:focus {
@@ -1035,6 +1035,14 @@ font-size: large;
   box-shadow: -3px -3px 9px #ffffff73, 2px 2px 9px rgba(94, 104, 121, 0.288);
 }
 
+@media (max-width: 768px) {
+  .CV {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 300px;
+  }
+} 
 .purple{
   color: #bb86fc;
 }
